@@ -1,0 +1,154 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Dean Tyler, USGS/EROS</origin>
+        <pubdate>20130322</pubdate>
+        <title>Topobathymetric Model of San Francisco Bay, California</title>
+        <geoform>raster digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This 2 meter cell size dataset is a digital elevation model created from several previous topographic, bathymetric and topographic/bathymetric raster datasets.</abstract>
+      <purpose>This dataset is intended for geospatial applications that require seamless land elevation and water depth information in coastal environments.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>-123.298054</westbc>
+        <eastbc>-121.850960</eastbc>
+        <northbc>38.473050</northbc>
+        <southbc>37.320496</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>DEM</themekey>
+        <themekey>topography</themekey>
+        <themekey>bathymetry</themekey>
+        <themekey>topobathy</themekey>
+        <themekey>derived surface</themekey>
+        <themekey>submerged topography</themekey>
+        <themekey>elevation</themekey>
+        <themekey>bare earth elevation</themekey>
+        <themekey>process</themekey>
+        <themekey>mapping</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>elevation</themekey>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>San Francisco Bay</placekey>
+        <placekey>Coastal California</placekey>
+        <placekey>Alameda County</placekey>
+        <placekey>Contra Costa County</placekey>
+        <placekey>Marin County</placekey>
+        <placekey>Santa Clara County</placekey>
+        <placekey>San Francisco County</placekey>
+        <placekey>San Mateo County</placekey>
+        <placekey>Solano County</placekey>
+        <placekey>Sonoma County</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>NOT TO BE USED FOR NAVIGATION.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>USGS/EROS</cntorg>
+          <cntper>Dean Tyler</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>USGS/EROS</address>
+          <city>Sioux Falls</city>
+          <state>SD</state>
+        </cntaddr>
+        <cntvoice>(605)594-2624</cntvoice>
+        <cntemail>dtyler@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The following are references for the input data.  The originators are the the authoritative sources for the data contained in this mosaic.
+
+Carignan, K.S., L.A. Taylor, B.W. Eakins, R.J. Caldwell, D.Z. Friday, P.R. Grothe, and E. Lim, 2011. Digital Elevation Models of Central California and San Francisco Bay: Procedures, Data Sources and Analysis, NOAA Technical Memorandum NESDIS NGDC-52, U.S Dept. of Commerce, Boulder, CO, 49 pp.  [URL: http://www.ngdc.noaa.gov/dem/squareCellGrid/getReport/741/].
+
+Foxgrover, A.C. and Jaffe, B.E., 2005, South San Francisco Bay 2004 Topographic Lidar Survey: Data Overview and Preliminary Quality Assessment: U.S. Geological Survey Open-File Report 2005-1284, 57p. [URL: http://pubs.usgs.gov/of/2005/1284].
+
+Foxgrover, A.C., Finlayson, D.P., Jaffe, B.E., Takekawa, J.Y., Thorne, K.M., and Spragens, K.A., 2011, 2010 bathymetric survey and digital elevation model of Corte Madera Bay, California: U.S. Geological Survey Open-File Report 2011-1217, 20 p., available at http://pubs.usgs.gov/of/2011/1217/.
+
+Foxgrover, A.C., and Barnard, P.L., 2012, A seamless, high-resolution digital elevation model (DEM) of the north-central California coast: U.S. Geological Survey Data Series 684, 11 p. and data files. (Available at http://pubs.usgs.gov/ds/684/).
+
+Foxgrover, A.C., Finlayson, D.P., and Jaffe, B.E., 2011, 2010 Bathymetry and digital elevation model of Coyote Creek and Alviso Slough, south San Francisco Bay, California: U.S. Geological Survey Open-File Report 2011–1315, 20 p. and datasets, available at: http://pubs.usgs.gov/of/2011/1315/.
+
+ARRA Golden Gate Lidar Project San Francisco State University (SFSU).  Contact: Ellen Hines &lt;ehines@sfsu.edu&gt;.  Collection dates:  apr-July 2010.    http://online.sfsu.edu/ehines/arra_golden_gate_lidar_project.htm.
+
+2009 - 2011 CA Coastal Conservancy Coastal Lidar Project. California Ocean Protection Council (OPC).  Contact: Sheila Semans &lt;ssemans@scc.ca.gov&gt;.  Collection dates: Sept-Dec 2010 http://www.csc.noaa.gov/dataviewer.
+
+2010 Northern San Francisco Bay Area Lidar: Portions of Alameda, Contra Costa, Marin, Napa, San Francisco, Solano, and Sonoma Counties.  National Oceanic and Atmospheric Administration's Coastal Services Center (NOAA-CSC).  Contact:  Dennis Hall &lt;Dennis.Hall@noaa.gov&gt;.  Collection dates:  Feb-Apr 2010. http://www.csc.noaa.gov/dataviewer.</datacred>
+    <native>Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3143</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Topobathymetric data are a merged rendering of both topography (land elevation) and bathymetry (water depth) to provide a seamless elevation product useful for inundation mapping, as well as other earth science applications, such as the development of sediment-transport, sea level rise, and storm surge models.  This dataset is a mosaic of several topobathymetric raster datasets covering the San Francisco Bay area by a variety of organizations.  All input data were processed as rasters.  A minor amount of reinterpolation was done to fill some gaps.  Topo/Bathy Creation Steps: a.) Determined priority of input data based on project characteristics, including acquisition dates, cell size, retention of features, water surface treatment, visual inspection and presence of artifacts.  b.)  Resampled applicable rasters to UTM Zone 10 (NAD83) with a cell size of 2 meters. c) Spatially mosaicked the input raster data sources to create a seamless topobathymetric composite at a cell size of  2 meters using blending (spatial weighting). d.) Performed a visual quality assurance (Q/A) assessment on the output composite to review the mosaic seams for artifacts. e.) Generated spatially referenced metadata for each unique data source. The spatially reference metadata consists of a group of geospatial polygons that represent the spatial footprint of each data source used in the generation of the topobathymetric dataset.  Each polygon was populated with attributes that describe the source data, such as acquisition date and source name.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>63638</rowcount>
+      <colcount>63120</colcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 UTM Zone 10N</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>-123.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <metainfo>
+    <metd>20130403</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>USGS/EROS</cntorg>
+          <cntper>Dean Tyler</cntper>
+        </cntorgp>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>NOT TO BE USED FOR NAVIGATION.</metuc>
+  </metainfo>
+</metadata>
